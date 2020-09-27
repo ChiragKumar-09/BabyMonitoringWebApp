@@ -1,6 +1,7 @@
-objects = [];
+
 status = "";
 alarm = "";
+objects = [];
 
 function preload() {
    alarm = loadSound("alarm.mp3") ;
